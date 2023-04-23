@@ -1,5 +1,7 @@
 # Snapshot Voting
 
+# UPD: Add support Whitelist for Philand
+
 Vote multiple EVM propsals in one single shot. 
 
 Spaces currently supported: Uniswap, Sushi, Hop, Gnosis, 1inch, Gitcoin, ENS, AAVE, Stargate DAO, Arbitrum Odyssey, Optimism, Curve, Shell Protocol, dYdX, Balancer, Simo
