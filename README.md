@@ -32,12 +32,6 @@ https://ericet.github.io/snapshot/
 
 `npm run serve`
 
-## Support My Works
-* Donations:
-  * ETH/BNB/XDAI: 0x434DCffCF7dABd48B284860C27ebd184C91341F5
-  * Cosmos: cosmos1q23hjqp3fv3v2fjxp3zvknelx53qfc4v6uzq6w
-* Stake with My Validator "ericet" on Evmos, Rebus, Stride, Canto, Likecoin, Desmos, etc
-
 
 # P.S: Use the tool at your own risk. 
 
