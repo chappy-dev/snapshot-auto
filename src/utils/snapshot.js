@@ -242,7 +242,7 @@ async function getActiveProposals(space) {
     const url = 'https://hub.snapshot.org/graphql?'
     const data = {
         query: `query Proposals {
-      proposals(first: 20, skip: 0, where: {space_in: ["${space}"], state: "active"}, orderBy: "created", orderDirection: desc) {
+      proposals(first: 100, skip: 0, where: {space_in: ["${space}"], state: "active"}, orderBy: "created", orderDirection: desc) {
         id
         title
         body
