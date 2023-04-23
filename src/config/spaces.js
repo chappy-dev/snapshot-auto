@@ -75,4 +75,8 @@ export const spacesList = [
         id:"mail3.eth",
         name:"Mail3"
     },
+    {
+        id:"whitelist1.eth",
+        name:"Whitelist"
+    },
 ];
